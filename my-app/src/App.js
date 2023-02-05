@@ -11,7 +11,7 @@ function App() {
         </p>
          <h1> this is a paragraph </h1>
          <h1>this is second paragraph </h1>
-         <h1> hey </h1>
+         <h1> hey Miran</h1>
 
       
       </header>
